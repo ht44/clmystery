@@ -301,9 +301,9 @@ If you just want to print out the entire contents of a file into your terminal, 
 	1600 Pennsylvania Avenue
 	Washington, DC 20500
 
-If you want to get serious and open a file in a text editor that comes built in to your terminal, you can try `nano`:
+If you want to get serious and open a file in a text editor that comes built in to your terminal, you can try `atom`:
 
-	/files$ nano address.txt
+	/files$ atom address.txt
 
 How many lines are in names.txt?
 

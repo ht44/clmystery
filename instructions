@@ -36,6 +36,6 @@ If you get stuck, open one of the hint files (from the CL, type 'cat hint1', 'ca
 
 To check your answer or find out the solution, open the file 'solution' (from the CL, type 'cat solution').
 
-To get started on how to use the command line, open cheatsheet.md or cheatsheet.pdf (from the command line, you can type 'nano cheatsheet.md').
+To get started on how to use the command line, you can type 'atom cheatsheet.md' from the command line.
 
 Don't use a text editor to view any files except these instructions, the cheatsheet, and hints.
